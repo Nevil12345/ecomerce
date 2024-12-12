@@ -1,0 +1,1640 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+    max-width: 1100px;
+}
+.header{
+    width: 100%;
+    display: inline-block;
+    background-color: #2D2E30;
+    color: white;
+}
+.menu{
+    width: 100%;
+    display: inline-block;
+}
+.both{
+    width: 100%;
+    display: inline-block;
+    padding: 10px 0px;
+}
+.left1{
+    width: 60%;
+    float: left;
+}
+.left1 h3{
+    display: inline-block;
+    padding-left: 20px;
+}
+.left1 select{
+    border: none;
+    display: inline-block;
+    background-color: #2D2E30;
+    color: white;
+}
+.lang1{
+    display: inline-block;
+    padding-right: 20px;
+}
+.se{
+    padding:0px 20px;
+    display: inline-block;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+.right1{
+    width: 40%;
+    float: left;
+
+}
+.con p{
+    padding: 0px;
+    display: inline-block;
+}
+.bo{
+    display: inline-block;
+    padding: 0px 14px 0px 5px;
+    border-right: 2px solid white;
+    cursor: pointer;
+}
+.bo1{
+    display: inline-block;
+    padding-left: 15px;
+    cursor: pointer;
+}
+.bo i{
+    display: inline-block;
+}
+.bo p{
+    display: inline-block;
+    padding-left: 7px;
+}
+.bo1 i{
+    display: inline-block;
+}
+.bo1 p{
+    display: inline-block;
+    padding-left: 7px;
+}
+.shop{
+    width: 100%;
+    display: inline-block;
+}
+.ecom{
+    width: 100%;
+    display: inline-block;
+}
+.three1{
+    width: 100%;
+    display: inline-block;
+    padding: 40px 0px 30px 0px;
+}
+.one{
+    width: 25%;
+    float: left;
+}
+.icon{
+    display: inline-block;
+    font-size: 45px;
+    color: #EDA93A;
+}
+.con{
+    display: inline-block;
+    padding-left: 10px;
+}
+.two{
+    width: 55%;
+    float: left;
+}
+.see{
+    width: 100%;
+    display: inline-block;
+}
+.see select{
+    height: 35px;
+    width: 150px;
+}
+.see input{
+    height: 35px;
+    width: 250px;
+}
+.see i{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+}
+.icon2{
+    padding-top: 2px;
+    display: inline-block;
+    margin-left: -4px;
+}
+.three{
+    width: 20%;
+    float: left;
+}
+.phone{
+    display: inline-block;
+    background-color: #EDA93A;
+}
+.phone a{
+    display: inline-block;
+    color: white;
+    padding: 5px 13px;
+}
+.phone i{
+    font-size: 35px;
+}
+.conp{
+    display: inline-block;
+    background-color: #5D5D65;
+    color: white;
+    margin-left: -5px;
+    margin-top: -4px;
+    padding: 3px 15px 5px 15px;
+}
+.icon33 a{
+    display: inline-block;
+    padding: 0px;
+    color: white;
+}
+.icon35{
+    display: inline-block;
+    font-size: 30px;
+    background-color: #EDA93A;
+    padding: 4px 10px 4px 25px; 
+    color: white;
+}
+.icon35 a{
+    display: inline-block;
+    padding: 0px;
+    color:white;
+}
+.menu2{
+    width: 100%;
+    display: inline-block;
+}
+.cate{
+    width: 100%;
+    display: inline-block;
+}
+.three2{
+    width: 100%;
+    display: inline-block;
+}
+.one2{
+    width: 25%;
+    float: left;
+}
+.backcolor{
+    display: inline-block;
+    background-color: #EDA93A;
+    color: white;
+    padding: 5px 10px;
+}
+.one2 h2{
+    display: inline-block;
+}
+.icon3{
+    display: inline-block;
+}
+.icon3 i{
+    font-size: 30px;
+}
+.icon3 a{
+    display: inline-block;
+    padding: 0px;
+    color: white;
+}
+.two2{
+    width: 57%;
+    float: left;
+    padding: 17px 0px 0px 0px;
+}
+.two2 ul{
+    list-style-type: none;
+}
+.two2 li,a{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 0px 5px 0px 5px;
+}
+.two2 select{
+    border: none;
+}
+.three3{
+    width: 17%;
+    float: left;
+}
+.icon33{
+    display: inline-block;
+    background-color: #5D5D65;
+    padding: 19px 20px 12px 20px;
+}
+.icon33 i{
+    font-size: 17px;
+    display: inline-block;
+    color: white;
+}
+.icon33 p{
+    display: inline-block;
+    color: white;
+    font-size: 17px;
+}
+.icon23 i{
+    font-size: 25px;
+    display: inline-block;
+    color: white;
+}
+.icon23{
+    display: inline-block;
+    background-color: #EDA93A;
+    padding: 13px 13px;
+    margin-left: -4px;
+}
+.icon23 a{
+    display: inline-block;
+    padding: 0px;
+}
+.top{
+    width: 100%;
+    display: inline-block;
+    background-image: url(img/img\ 1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.fashion{
+    width: 100%;
+    display: inline-block;
+}
+.headingtop{
+    width: 100%;
+    display: inline-block;
+    padding: 100px 0px 30px 0px;
+}
+.fashcon{
+    width: 100%;
+    display: inline-block;
+}
+.button{
+    width: 100%;
+    display: inline-block;
+    padding: 40px 0px 70px 0px;
+}
+.button a{
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 5px 13px;
+}
+.hot{
+    width: 100%;
+    display: inline-block;
+}
+.deal{
+    width: 100%;
+    display: inline-block;
+    padding-top: 30px;
+}
+.headinghot{
+    width: 100%;
+    display: inline-block;
+}
+.headinghot progress{
+    width: 100%;
+    display: inline-block;
+}
+.allimg{
+    width: 100%;
+    display: inline-block;
+    padding: 30px 0px 50px 0px;
+}
+.imgone{
+    width: 25%;
+    float: left;
+}
+.imgone img{
+    width: 90%;
+    display: inline-block;
+}
+.iconimg{
+    width: 100%;
+    display: inline-block;
+}
+.iconimg i{
+    color: orange;
+    padding: 5px 0px;
+}
+.price sub{
+    display: inline-block;
+    padding-left: 15px;
+}
+.allimg2{
+    width: 100%;
+    display: inline-block;
+}
+.img22{
+    width: 100%;
+    display: inline-block;
+}
+.one1{
+    background-image: url(img/img\ 6.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 32.50%;
+    padding: 10px 10px 10px 0px;
+    color: white;
+    float: left;
+    margin-right: 10px;
+}
+.inside{
+    border: 3px solid white;
+    border-left: none;
+    padding: 196px 27px;
+}
+.two21{
+    background-image: url(img/img\ 7.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    display: inline-block; 
+}
+.inside1{
+    border: 3px solid white;
+    padding: 75px 27px;
+}
+.three31{
+    background-image: url(img/img\ 8.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    display: inline-block;
+    margin-top: 10px;
+}
+.img223{
+    float: left;
+    width: 32.90%;
+}
+.four4{
+    background-image: url(img/img\ 9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 33%;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+}
+.inside33{
+    border: 3px solid white;
+    border-right: none;
+    padding: 196px 27px;
+}
+.men{
+    width: 100%;
+    display: inline-block;
+}
+.line12{
+    width: 100%;
+    display: inline-block;
+}
+.line{
+    width: 100%;
+    display: inline-block;
+    padding-top: 80px;
+}
+.lin1{
+    border: 0px solid black;
+    height: 5px;
+    border-radius: 3px;
+    background-color: gray;
+}
+.inline{
+    width: 40%;
+    background-color: #EDA93A;
+    height: 5px;
+    border-radius: 3px;
+}
+.img11{
+    display: inline-block;
+    width: 100%;
+}
+.img11all{
+    display: inline-block;
+    width: 100%;
+    padding: 55px 0px 70px;
+}
+.img1o{
+    float: left;
+    width: 25%;
+}
+.img1o img{
+    width: 260px;
+    height: 350px;
+    position: absolute;
+}
+.discount{
+    position: relative;
+    border: 1px solid #EDA93A;
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    background-color: #EDA93A;
+    padding: 10px;
+    top: 20px;
+    left: 20px;
+}
+.img1{
+    float: left;
+    width: 25%;
+}
+.img1 img{
+    height: 350px;
+    width: 260px;
+    position: relative;
+}
+.img3t{
+    float: left;
+    width: 25%;
+}
+.img3t img{
+    position: absolute;
+    width: 260px;
+    height: 350px;
+}
+.discount1{
+    position: relative;
+    border: 1px solid #2D2E30;
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    background-color: #2D2E30;
+    padding: 10px;
+    top: 20px;
+    left: 20px;
+}
+.discount12{
+    position: relative;
+    border: 1px solid #2D2E30;
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    background-color: #2D2E30;
+    padding: 10px;
+    top: 20px;
+    left: 20px;
+}
+.img4f{
+    float: left;
+    width: 25%;
+}
+.img4f img{
+    position: absolute;
+    width: 260px;
+    height: 350px;
+}
+.discount3{
+    position: relative;
+    border: 1px solid #EDA93A;
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    background-color: #EDA93A;
+    padding: 10px;
+    top: 20px;
+    left: 25px;
+}
+.new{
+    width: 100%;
+    display: inline-block;
+    background-image: url(img/img\ 14.jpeg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0px;
+}
+.headingnew{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.headingnew p{
+    padding: 25px 0px;
+}
+.connews{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.icon44{
+    width: 80%;
+    display: inline-block;
+    border: 2px solid white;
+    padding: 10px 0px;
+    border-right: none;
+}   
+.icon44 i{
+    background-color: transparent;
+    color: white;
+    font-size: 35px;
+    float: left;
+    padding-left: 40px;
+}
+.icon44 input{
+    background-color: transparent;
+    border: none;
+    width: 88%;
+    padding: 5px 0px;
+    outline: none;
+    font-size: 20px;
+    color: white;
+}
+
+.icon44 ::placeholder{
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+    top: 3px;
+}
+.icon44 a{
+    background-color: transparent;
+    color: white;
+}
+.connews a{
+    color: white;
+    border: 2px solid white;
+    padding: 18px 10px;
+    margin-left: -4px;
+    height: 58px;
+}
+.women{
+    width: 100%;
+    display: inline-block;
+    background-color: #EAEAEA;
+    padding: 60px 0px 40px 0px;
+}
+.menu2{
+    width: 100%;
+    display: inline-block;
+}
+.bothwo{
+    width: 100%;
+    display: inline-block;
+}
+.leftw{
+    width: 50%;
+    float: left;
+}
+.rightw{
+    width: 50%;
+    float: left;
+}
+.mainr{
+    width: 100%;
+    float: right;
+}
+.m1{
+    width: 200px;
+    float: left;
+}
+.m1 a{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    border: 2px solid black;
+}
+.m1 a:hover{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+.m3{
+    width: 165px;
+    float: left;
+}
+.m3 a{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    border: 2px solid black;
+}
+.m3 a:hover{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+.m2{
+    width: 185px;
+    float: right;
+}
+.m2 a{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    border: 2px solid black;
+}
+.m2 a:hover{
+    padding: 10px 10px 10px 7px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+.allimgw{
+    width: 100%;
+    display: inline-block;
+}
+.all2img{
+    width: 100%;
+    display: inline-block;
+}
+.one1img{
+    width: 24%;
+    float: left;
+    background-color: white;
+    height: 450px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.one1img img{
+    position: absolute;
+    width: 255px;
+    padding: 14px 4px 0px 14px;
+    height: 350px;
+}
+.discount5{
+    position: relative;
+    border: 1px solid #EDA93A;
+    border-radius: 50%;
+    color: white;
+    width: 50px;
+    background-color: #EDA93A;
+    padding: 10px;
+    top: 20px;
+    left: 25px;
+}
+.one1img h3{
+    padding: 325px 14px 0px 14px;    
+}
+.iconon1 i{
+    color: #EDA93A;
+    padding-top: 5px;
+}
+.n1{
+    padding: 0px 0px 0px 14px;
+    color: #EDA93A;
+}
+.con1 h3{
+    padding: 5px 14px 0px 14px;
+}
+.uline h3{
+    padding: 364px 14px 0px 14px;
+}
+.brand{
+    display: inline-block;
+    width: 100%;
+    padding-top: 40px;
+}
+.brall{
+    display: inline-block;
+    width: 100%;
+    padding-top: 30px;
+}
+.brall img{
+    width: 16%;
+    height: 50px;
+    padding:  0px 5px;
+}
+.line123{
+    width: 100%;
+    display: inline-block;
+    padding-top: 40px;
+}
+.free{
+    width: 100%;
+    display: inline-block;
+    padding: 50px 0px;
+}
+.three33{
+    width: 100%;
+    display: inline-block;
+}
+.one11{
+    width: 33%;
+    float: left;
+}
+.one11 p{
+    display: inline-block;
+    padding: 5px 38px 0px 15px;
+}
+.one11 i{
+    display: inline-block;
+    font-size: 35px;
+    color: #EDA93A;
+}
+.one11 p{
+    padding-left: 15px;
+}
+.tag1{
+    width: 50%;
+    float: left;
+}
+.tag2{
+    width: 50%;
+    float: left;
+}
+.bothtag{
+    width: 100%;
+    display: inline-block;
+}
+.icon99{
+    width: 10%;
+    float: left;
+    padding-top: 20px;
+}
+.con12{
+    width: 90%;
+    float: left;
+}
+.con12 h3{
+    display: inline-block;
+    padding-left: 15px;
+}
+.ecom1{
+    width: 100%;
+    display: inline-block;
+    background-color: #717274;
+    color: white;
+    padding-top: 70px;
+}
+.shop1{
+    width: 100%;
+    display: inline-block;
+}
+.four442{
+    width: 100%;
+    display: inline-block;
+}
+.first1{
+    width: 30%;
+    float: left;
+}
+.header{
+    width: 100%;
+    display: inline-block;
+}
+.header1 i{
+    color: #EDA93A;
+    display: inline-block;
+    font-size: 40px;
+}
+.header1 p{
+    display: inline-block;
+    padding-left: 15px;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.full{
+    width: 10%;
+    float: left;
+}
+.con00{
+    width: 90%;
+    float: left;
+    padding-left: 20px;
+}
+.tele{
+    width: 100%;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.tele i{
+    display: inline-block;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.tele p{
+    display: inline-block;
+    padding-bottom: 15px;
+}
+.email{
+    display: 100%;
+    display: inline-block;
+    padding-bottom: 15px;
+}
+.email i{
+    display: inline-block;
+    font-size: 30px;
+}
+.email p{
+    padding-left: 10px;
+}
+.email h3{
+    display: inline-block;
+    padding-left: 10px;
+}
+.number{
+    width: 100%;
+    display: inline-block;
+}
+.number i{
+    display: inline-block;
+    font-size: 30px;
+}
+.second211{
+    width: 17%;
+    float: left;
+    padding-left: 5px;
+}
+.header22{
+    width: 100%;
+    display: inline-block;
+}
+.header22 ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.header22 a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 0px;
+}
+.thard33{
+    width: 17%;
+    float: left;
+    padding-left: 5px;
+}
+.thard33 h2{
+    display: inline-block;
+}
+.thard33 ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.thard33 a,li{
+    text-decoration: none;
+    color: white;
+    padding: 5px 0px;
+}
+.fo44{
+    width: 17%;
+    float: left;
+    padding-left: 5px;
+}
+.fo44 ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.fo44 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 0px;
+}
+.five55{
+    width: 17%;
+    float: left;
+    padding-left: 5px;
+}
+.fie55 ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.fie55 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 0px;
+}
+.footer{
+    width: 100%;
+    display: inline-block;
+    background-color: #101010;
+}
+.bothfoot{
+    width: 100%;
+    display: inline-block;
+    padding: 10px 0px;
+}
+.first100{
+    width: 50%;
+    float: left;
+    color: white;
+}
+.second200{
+    width: 50%;
+    float: left;
+}
+.second200 img{
+    height: 30px;
+    width: 60px;
+    float: right;
+    padding: 0px 8px;
+}
+@media screen and (max-width:1248px){
+    .one1{
+        width: 32%;
+    }
+    .four4{
+        width: 32%;
+    }
+    .m2{
+        width: 147px;
+    }
+    .one1img{
+        height: 470px;
+    }
+    .left1{
+        width: 55%;
+    }
+    .right1{
+        width: 45%;
+    }
+}
+@media screen and (max-width:1024px){
+    .left1,.right1{
+        width: 50%;
+        float: left;
+    }
+    .two{
+        width: 52%;
+    }
+    .three{
+        width: 23%;
+    }
+    .conp{
+        padding: 3px 15px 5px 15px;
+    }
+    .see input{
+        width: 230px;
+    }
+    .one2{
+        width: 25%;
+    }
+    .two2{
+        width: 55%;
+    }
+    .three3{
+        width: 20%;
+    }
+    .icon33{
+        padding: 19px 20px 12px 20px;
+    }
+    .backcolor{
+        padding: 5px 0px;
+    }
+    .icon35{
+        padding: 4px 10px 4px 25px;
+    }
+    .iconimg{
+        padding-left: 10px;
+    }
+    .price{
+        padding-left: 10px;
+    }
+    .one1{
+        width: 32%;
+        height: 545px;
+    }
+    .inside{
+        padding: 213px 27px;
+    }
+    .img223{
+        width: 33%;
+    }
+    .four4{
+        width: 32%;
+        height: 545px;
+    }
+    .inside33{
+        padding: 232px 27px;
+    }
+    .img1 img{
+        width: 230px;
+    }
+    .img1o img{
+        width: 230px;
+    }
+    .img3t img{
+        width: 230px;
+    }
+    .img4f img{
+        width: 230px;
+    }
+    .m3{
+        width: 156px;
+    }
+    .m1{
+        width: 181px;
+    }
+    .m2{
+        width: 160px;
+    }
+    .one1img{
+        height: 465px;
+        width: 235px;
+    }
+    .one1img img{
+        width: 235px;
+        padding: 10px 10px 0px 10px;
+    }
+    .first1{
+        width: 23%;
+    }
+    .second211{
+        width: 17%;
+    }
+    .thard33{
+        padding-left: 10px;
+    }
+    .fo44{
+        width: 20%;
+        padding-left: 23px;
+    }
+    .fie55{
+        float: left;
+        padding-left: 40px;
+    }
+    .bo{
+        padding: 0px 14px 0px 5px;
+    }
+    .tag1 li{
+        padding: 0PX;
+    }
+    .tag2 li{
+        padding: 0px;
+    }
+    .see input{
+        width: 225px;
+    }
+    .icon44 i{
+        padding-left: 38px;
+    }
+}
+@media screen and (max-width: 994px){
+    .m1{
+        width: 182px;
+    }
+    .m2{
+        width: 125px;
+    }
+    .m3{
+        width: 158px;
+    }
+    .one1img{
+        width: 223px;
+    }
+    .one1img img{
+        padding: 10px 19px 0px 10px;
+    }
+    .first1{
+        width: 26%;
+    }
+    .second211{
+        width: 20%;
+    }
+    .thard33{
+        width: 24%;
+    }
+    .fo44{
+        width: 24%;
+    }
+    .fie55{
+        width: 100%;
+        padding: 0px;
+    }
+}
+@media screen and (max-width: 958px) {
+   .one2{
+        width: 30%;
+    }
+    .two2{
+        width: 70%;
+        padding: 0px;
+    }
+    .three3{
+        width: 100%;
+        padding-top: 10px;
+    }
+    .two2 li,a{
+        padding: 8px 5px 0px 5px;
+    }
+    .left1{
+        width: 100%;
+    }
+    .right1{
+        width: 100%;
+        padding-top: 15px;
+    }
+}
+@media screen and (max-width: 936px){
+    .img1o img,.img1 img,.img3t img,.img4f img{
+        width: 185px;
+    }
+    .leftw{
+        width: 33%;
+    }
+    .rightw{
+        width: 67%;
+        padding-top: 15px;
+    }
+    .m3{
+        width: 232px;
+    }
+    .one1img{
+        width: 205px;
+    }
+    .one1img img{
+        width: 215px;
+        padding: 10px 19px 0px 10px;
+    }
+}
+@media screen and (max-width: 864px){
+    .one{
+        width: 100%;
+    }
+    .icon{
+        font-size: 45px;
+    }
+    .con{
+        padding-left: 15px;
+    }
+    .two{
+        width: 68%;
+    }
+    .see input{
+        width: 225px;
+    }
+    .three{
+        width: 32%;
+    }
+    .one2{
+        width: 30%;
+    }
+    .backcolor{
+        padding: 5px 0px;
+    }
+    .icon35{
+        padding: 4px 10px 4px 24px;
+    }
+    .m3{
+        width: 190px;
+    }
+    .one1img img{
+        width: 185px;
+    }
+    .one1img{
+        width: 175px;
+    }
+    .first1{
+        width: 35%;
+    }
+    .second211{
+        width: 32.50%;
+        padding-left: 50px;
+    }
+    .thard33{
+        padding-left: 30px;
+        width: 32.50%;
+    }
+    .fo44{
+        width: 50%;
+        padding-left: 33px;
+        padding-top: 20px;
+    }
+    .fie55{
+        width: 50%;
+        padding-top: 20px;
+        padding-left: 80px;
+    }
+}
+@media screen and (max-width: 854px){
+    
+}
+@media screen and (max-width: 768px){
+    .three1{
+        padding: 39px 0px 30px 0px;
+    }
+    .two{
+        width: 65%;
+    }
+    .three{
+        width: 35%;
+    }
+    .see{
+        padding-left: 10px;
+    }
+    .conp{
+        padding: 3px 15px 5px 15px;
+    }
+    .icon33{
+        padding: 19px 20px 12px 20px;
+    }
+    .one1{
+        width: 32%;
+    }
+    .four4{
+        width: 32%;
+    }
+    .two21,.three31{
+        height: 267px;
+    }
+    .inside1{
+        padding: 57px 27px;
+    }
+    .img1o img,.img1 img,.img3t img,.img4f img{
+        width: 175px;
+    }
+    
+    .icon44{
+        padding: 18px 0px 18px 0px;
+    }
+    .icon44 i{
+        padding-left: 15px;
+    }
+    .connews a{
+        padding: 27px 10px 44px 10px;
+        height: 0px;
+    }
+}
+@media screen and (max-width: 764px){
+    .phone a{
+        padding: 5px 14px;
+    }
+    .one2{
+        width: 100%;
+    }
+    .one2 h2{
+        font-size: 25px;
+    }
+    .icon35{
+        padding: 0px 15px;
+    }
+    .two2{
+        padding-top: 10px;
+        width: 100%;
+    }
+    .two2 li{
+        padding: 0px 5px 0px 5px;
+    }
+    .icon35 {
+        padding: 4px 10px 4px 24px;
+    }
+    .one1{
+        width: 31.50%;
+    }
+    .four4{
+        width: 31.50%;
+    }
+    .inside{
+        padding: 194px 27px;
+    }
+    .inside33{
+        padding: 204px 27px;
+    }
+    .img1o img,.img1 img,.img3t img,.img4f img{
+        width: 155px;
+        height: 275px;
+    }
+    .discount,.discount3{
+        left: 5px;
+    }
+    .discount12{
+        left: 3px;
+    }
+    .leftw{
+        width: 100%;
+    }
+    .rightw{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .m3,.m1{
+        width: 33%;
+    }
+    .m2{
+        width: 33%;
+        float: left;
+        padding-left: 24px;
+    }
+    .og{
+        width: 50%;
+        float: left;
+    }
+    .og2{
+        width: 50%;
+        float: left;
+        padding-left: 43px;
+    }
+    .one1img{
+        width: 230px;
+    }
+    .one1img img{
+        width: 235px;
+    }
+    .all2img{
+        padding-top: 20px;
+    }
+}
+@media screen and (max-width: 684px){
+    .two{
+        width: 100%;
+        padding-top: 6px;
+    }
+    .see{
+        padding-top: 5px;
+    }
+    .three{
+        width: 100%;
+        padding-top: 15px;
+    }
+}
+@media screen and (max-width: 640px){
+    
+    .img1o img,.img1 img,.img3t img,.img4f img{
+        width: 140px;
+    }
+    .icon99{
+        padding: 0px;
+    }
+    .one11 i{
+        padding-left: 30px;
+    }
+    .con12{
+        padding: 0px;
+        padding-top: 45px
+    }
+}
+@media screen and (max-width: 552px){
+    .img1o,.img1,.img3t,.img4f{
+        width: 50%;
+    }
+    .ih1{
+        width: 100%;
+        float: left;
+        padding-left: 20px;
+    }
+    .img1o img,.img1 img,.img3t img,.img4f img{
+        width: 200px;
+    }
+    .img11all{
+        padding: 55px 0px 262px;
+    }
+    .icon44 i{
+        padding-left: 10px;
+    }
+    .og2{
+        padding-left: 5px;
+    }
+    .brall img{
+        width: 15%;
+    }
+}
+@media screen and (max-width: 480px){
+    .see input{
+        width: 150px;
+    }
+    .one1{
+        width: 31%;
+    }
+    .four4{
+        width: 31%;
+    }
+    .icon44 input{
+        width: auto;
+    }
+    .m1{
+        width: 40%;
+        padding-left: 9px;
+    }
+    .m2{
+        width: 28%;
+        padding-left: 10px;
+    }
+    .m3{
+        width: 31%;
+    }
+    .og2{
+        padding-left: 4px;
+    }
+    .brall img{
+        width: 15%;
+    }
+    
+    .second211{
+        padding-left: 20px;
+    }
+    .thard33{
+        padding: 0px;
+    }
+    .thard33 h2{
+        font-size: 19px;
+    }
+    .header1 i{
+        font-size: 30px;
+    }
+    .header1 p{
+        font-size: 25px;
+        padding: 0px;
+    }
+    .first100{
+        width: 100%;
+    }
+    .second200{
+        width: 100%;
+        padding-top: 10px;
+    }
+    .second200 img{
+        float: left;
+    }
+}
+@media screen and (max-width: 478px){
+    .see input{
+        width: 121px;
+    }
+    .bo{
+        padding: 0px 20px 0px 10px;
+    }
+    .imgone{
+        width: 100%;
+    }
+    .imgone img{
+        padding-left: 25px;
+    }
+    .imgone p{
+        padding-left: 30px;
+    }
+    .iconimg,.price{
+        padding-left: 30px;
+    }
+    .one1{
+        width: 30%;
+    }
+    .inside1{
+        padding: 24px 27px;
+    }
+    .four4{
+        width: 30%;
+    }
+    .inside33{
+        padding: 191px 27px;
+    }
+    .inside{
+        padding: 185px 27px;
+    }
+    .img1o,.img3t, .img4f{
+        width: 100%;
+        padding-bottom: 250px;
+    }
+    .img1{
+        width: 100%;
+    }
+    .img11all{
+        padding-bottom: 55px;
+    }
+    .img1o, .img1, .img3t, .img4f{
+        padding-left: 55px;
+    }
+    .icon44{
+        border: 2px solid white;
+    }
+    .icon44 i{
+        padding-left: 12px;
+    }
+    .connews a{
+        padding: 15px 25px 30px 25px;
+        margin-top: 10px;
+    }
+    .og{
+        width: 100%;
+        padding-left: 70px;
+    }
+    .first1{
+        width: 55%;
+    }
+    .fo44{
+        padding-left: 60px;
+    }
+    .fie55{
+        width: 100%;
+        padding: 0px;
+
+    }
+}
+@media screen and (max-width: 320px){
+    .two{
+        width: 100%;
+        padding-top: 6px;
+    }
+    .see input{
+        width: 100px;
+    }
+    .three{
+        width: 100%;
+        padding-top: 15px;
+    }
+    .conp{
+        padding: 3px 10px 5px 10px;
+    }
+    .left1 h3{
+        padding: 0px;
+    }
+    .one2{
+        width: 100%;
+    }
+    .one2 h2{
+        font-size: 25px;
+    }
+    .icon35{
+        padding: 0px 15px;
+    }
+    .two2{
+        padding-top: 10px;
+        width: 100%;
+    }
+    .tag2{
+        padding-top: 5px;
+    }
+    .icon33{
+        padding: 13px 15px;
+    }
+    .icon23{
+        padding: 13px 15px;
+    }
+    .imgone{
+        width: 100%;
+    }
+    .imgone img{
+        padding-left: 25px;
+    }
+    .imgone p{
+        padding-left: 30px;
+    }
+    .iconimg,.price{
+        padding-left: 30px;
+    }
+    .one1{
+        width: 30%;
+    }
+    .inside1{
+        padding: 24px 27px;
+    }
+    .four4{
+        width: 30%;
+    }
+    .inside33{
+        padding: 191px 27px;
+    }
+    .inside{
+        padding: 185px 27px;
+    }
+    .img1o,.img3t, .img4f{
+        width: 100%;
+        padding-bottom: 250px;
+    }
+    .img1{
+        width: 100%;
+    }
+    .img11all{
+        padding-bottom: 55px;
+    }
+    .img1o, .img1, .img3t, .img4f{
+        padding-left: 30px;
+    }
+    .icon44{
+        border: 2px solid white;
+    }
+    .icon44 i{
+        padding-left: 100px;
+    }
+    .connews a{
+        padding: 10px 10px 25px 10px;
+        margin-top: 10px;
+    }
+    .m2{
+        padding-left: 3px;
+    }
+    .og{
+        width: 100%;
+        padding-left: 35px;
+    }
+    .first1{
+        width: 55%;
+    }
+    .fo44{
+        padding-left: 60px;
+    }
+    .fie55{
+        width: 100%;
+    }
+    
+}
